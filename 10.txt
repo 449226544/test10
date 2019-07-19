@@ -2,3 +2,6 @@ init modified
 
 add some new things
 11111：
+
+aliases
+
